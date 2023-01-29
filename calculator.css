@@ -1,0 +1,65 @@
+/* all css property*/
+.body
+      {
+        direction: start;
+        height: 200%;
+        background-color: black; 
+      }
+      .t1
+      {
+        
+            margin-top: 50px;
+            margin-left:425px;
+            padding:20px;
+            height: 550px;
+            width: 400x;
+            border-radius: 10px;
+            background-color: rgb(228, 219, 94);
+            align-content: center;
+      }
+      .screen{
+            height: 80px;
+            width: 300px;
+            border-color: black ;
+            border-style: solid;
+            border-radius: 5px;
+            font-size: 29px;
+            margin: 5px;
+            text-align: right;
+            background-color: white;
+
+        }
+        input[type=bn1]
+        {
+            color: black;
+            border-color: solid;
+            height: 80px;
+            width: 75px;
+            font-size: 40px;
+            border-radius: 5px;
+            background-color: brown;
+            text-align: center;
+             margin : 3px;
+            margin-top: 1px;
+
+        }
+        input[type=bn1]:hover
+        {
+            background-color: rgb(219, 113, 113);
+        }
+        input[type=button]{
+            color:white;
+            border-color: black;
+            border-style: solid;
+            background-color: black;
+            height:80px;
+            width: 80px;
+            font-size:40px;
+            border-radius: 5px;
+            margin-top: 10px;
+            margin-left: 3px;
+        }
+        input[type=button]:hover
+        {
+            background-color: gray;
+        }
